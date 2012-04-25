@@ -108,7 +108,6 @@ package
 		
 		public function playGame():void
 		{
-//			move();
 			testCollisions();
 		}
 		
